@@ -2,7 +2,7 @@
 
 [![Twitter Follow ME](https://img.shields.io/twitter/follow/A_Zagri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A_Zagri)
 
-## I am a Junior Web Developer with experience building web applications and responsive stunning websites. I have a passion for making websites that are as simple as and easy to use as possible, without taking away from their functionality.
+## I am a Web Developer with experience building web applications and responsive stunning websites. I have a passion for making websites that are as simple as and easy to use as possible, without taking away from their functionality.
 
 
 - 👯 I look forward to collaborating with other developers to sharpen and to learn new skills.
