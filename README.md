@@ -1,7 +1,5 @@
 # Hello, I'm Ahmed Al-zeqri 👋
 
-[![Twitter Follow ME](https://img.shields.io/twitter/follow/A_Zagri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A_Zagri)
-
 ## I am a front end developer with experience building web applications and responsive stunning websites. I have a passion for making websites that are as simple as and easy to use as possible, without taking away from their functionality.
 
 - 👯 I look forward to collaborating with other developers to sharpen and to learn new skills.
@@ -49,9 +47,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-![Ahmed Alzeqri's GitHub stats](https://github-readme-stats.vercel.app/api?username=alzeqri1997&show_icons=true&theme=nord)
